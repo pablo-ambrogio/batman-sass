@@ -1,0 +1,36 @@
+.logo{display: flex;justify-content: center;}
+.negrillas{font-weight: bold;}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+
+    border-style:solid;
+    border-color: #ffd700;
+    border-width: 5px;
+    border-radius: 10px;
+    padding: auto;
+    color:rgba(196, 196, 196, 1); background-color:rgba(0, 86, 119, 1);text-align: center;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-style: bold;
+    
+    border-style: solid;
+    border-color: rgba(0, 86, 119, 1);
+    border-radius: 10px;
+    padding-left: 10px;
+
+
+    color: rgba(0, 86, 119, 1);background-color: rgba(196, 196, 196, 1);}
+footer{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color:rgba(255, 255, 255, 1) ;
+    border-style: solid;
+    padding-bottom: 1%;
+
+    background-color: rgba(0, 86, 119, 1);color:rgba(255, 255, 255, 1);text-align: center;}
+
+ul{color:rgba(68, 83, 102,)}
